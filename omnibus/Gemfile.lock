@@ -27,7 +27,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     artifactory (3.0.15)
     awesome_print (1.8.0)
@@ -226,7 +226,7 @@ GEM
     iostruct (0.0.4)
     ipaddress (0.8.3)
     iso8601 (0.13.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.5.1)
     kitchen-vagrant (1.7.2)
       test-kitchen (>= 1.4, < 3)
@@ -312,8 +312,8 @@ GEM
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    public_suffix (4.0.6)
-    rack (2.2.3)
+    public_suffix (4.0.7)
+    rack (2.2.14)
     rainbow (3.0.0)
     retryable (3.0.5)
     rspec (3.10.0)
@@ -400,7 +400,7 @@ GEM
     unicode-display_width (1.7.0)
     unicode_utils (1.4.0)
     uuidtools (2.1.5)
-    webrick (1.7.0)
+    webrick (1.8.2)
     win32-api (1.5.3-universal-mingw32)
     win32-certstore (0.4.1)
       ffi
